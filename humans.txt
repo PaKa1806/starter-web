@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pavle KAPL
 
 # THANKS
 
-    <name>
+JA
 
 # TECHNOLOGY COLOPHON
 
