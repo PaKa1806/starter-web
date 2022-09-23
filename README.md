@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Dodavanje nekakvog teksta
+This repository is for showing how Git and GitHub work. Dodavanje nekakvog teksta, dodavanje jos izmena sada 
 
 ## Purpose
 
